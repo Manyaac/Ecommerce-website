@@ -12,5 +12,5 @@ Add items to the cart and proceed to checkout.
 📞 Contact
 For any queries or suggestions, reach out to me:
 
-GitHub: manyaac
+GitHub: Manyaac
 Email: manyaac24@gmail.com
